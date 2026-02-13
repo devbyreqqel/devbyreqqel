@@ -1,7 +1,7 @@
-<h2 align="center">Yo, I'm Antoni 👋</h2>
+<h2 align="center">hello bro, devbyreqqel</h2>
 
 <p align="center">
-  🎵 Artist &nbsp;•&nbsp; 💻 Developer  
+  🎵 music producer &nbsp;•&nbsp; 💻 laptop user  
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ---
 
 ### Stack
-- JavaScript / TypeScript  
+- HTML, CSS, JS
 - Python  
 - C++  
 
@@ -36,6 +36,8 @@
 
 ### Contact
 - GitHub: @devbyrequel
+- Instagram: @reqqel999
+- Discord: reqqel
 
 
 
