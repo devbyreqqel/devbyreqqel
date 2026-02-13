@@ -1,7 +1,7 @@
 <h2 align="center">hello bro, devbyreqqel</h2>
 
 <p align="center">
-  🎵 music producer &nbsp;•&nbsp; 💻 laptop user  
+  🎵 artist x producer &nbsp;•&nbsp; 💻 laptop user  
 </p>
 
 ---
