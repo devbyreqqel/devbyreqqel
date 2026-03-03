@@ -7,8 +7,8 @@
 ---
 
 ### About me
-- fl studio, reaper, logic pro, ableton user 🎵
-- windows/hackintosh user 💻
+- fl studio, reaper, ableton user 🎵
+- windows user 💻
 - yerba mate lover 🧉
 
 ### Laptops:
