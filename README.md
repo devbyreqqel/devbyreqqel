@@ -51,7 +51,7 @@
 ---
 
 ### Contact
-- GitHub: @devbyrequel
+- GitHub: @devbyreqqel
 - Instagram: @reqqel999
 - Discord: reqqel
 
