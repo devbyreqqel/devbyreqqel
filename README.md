@@ -23,8 +23,24 @@
       ∙ Intel Core i5 1035G1
       ∙ 8 GB RAM
       ∙ Intel UHD Graphics
-        ∙ Hackintosh (macOS Sequoia)
+        ∙ Windows 11
      
+---
+## Stats
+
+<div align="center">
+
+
+[![Light Mode Stats](https://github-stats-extended.vercel.app/api?username=devbyreqqel&show_icons=true&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/devbyreqqel#gh-light-mode-only) 
+[![Dark Mode Stats](https://github-stats-extended.vercel.app/api?username=devbyreqqel&show_icons=true&text_color=ADADAD&icon_color=00ff00&bg_color=0c1117#gh-dark-mode-only)](https://github.com/devbyreqqel#gh-dark-mode-only) 
+[![Light Mode Stats Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=devbyreqqel&layout=compact&icon_color=00ff00&bg_color=ffffff#gh-light-mode-only)](https://github.com/devbyreqqel#gh-light-mode-only) 
+[![Dark Mode Stats Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=devbyreqqel&layout=compact&text_color=ADADAD&icon_color=00ff00&bg_color=0c1117#gh-dark-mode-only)](https://github.com/devbyreqqel#gh-dark-mode-only) 
+
+</div>
+
+
+###
+
 ---
 
 ### Stack
@@ -39,7 +55,7 @@
 - Instagram: @reqqel999
 - Discord: reqqel
 
-
+---
 
 
 <!--
