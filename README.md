@@ -31,7 +31,7 @@
         <li><b>CPU:</b> Intel Core i7-4720HQ</li>
         <li><b>RAM:</b> 16 GB</li>
         <li><b>GPU:</b> GTX 960M + Intel HD</li>
-        <li><b>OS:</b> Windows 11</li>
+        <li><b>OS:</b> Windows 10</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -41,7 +41,7 @@
         <li><b>CPU:</b> Intel Core i5-1035G1</li>
         <li><b>RAM:</b> 8 GB</li>
         <li><b>GPU:</b> Intel UHD Graphics</li>
-        <li><b>OS:</b> Windows 11</li>
+        <li><b>OS:</b> Arch Linux</li>
       </ul>
     </td>
   </tr>
