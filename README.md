@@ -14,9 +14,9 @@
 
 ## ✨ About Me
 
-- 🎹 FL Studio, Reaper & Ableton user
-- 🪟 Windows-first workflow
-- 🧉 yerba mate lover
+- 🎹 Ableton & Luna & Reaper user
+- 🪟 Windows and Arch user
+- 🧉 Yerba Mate lover
 
 ---
 
